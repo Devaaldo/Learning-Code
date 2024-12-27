@@ -1,0 +1,9 @@
+[{
+  "file": "D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project2\\main.cpp",
+  "directory": "D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project2",
+  "command": "C:/mingw64/bin/g++.exe -c \"D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project2\\main.cpp\" -o \"D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project2\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project1\\main.cpp",
+  "directory": "D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project1",
+  "command": "C:/mingw64/bin/g++.exe -c \"D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project1\\main.cpp\" -o \"D:\\Solo Course Stuff\\C++ Udemy\\Workspace2\\Project1\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
